@@ -1,0 +1,15 @@
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\bin\Debug\net7.0\Proy02.exe
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\bin\Debug\net7.0\Proy02.deps.json
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\bin\Debug\net7.0\Proy02.runtimeconfig.json
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\bin\Debug\net7.0\Proy02.dll
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\bin\Debug\net7.0\Proy02.pdb
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.csproj.AssemblyReference.cache
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.AssemblyInfoInputs.cache
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.AssemblyInfo.cs
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.csproj.CoreCompileInputs.cache
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.dll
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\refint\Proy02.dll
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.pdb
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\Proy02.genruntimeconfig.cache
+C:\Users\rcamero\OneDrive - Redes y Sistemas Integrados S.A.S\Oficina\soluciones\Proy02\obj\Debug\net7.0\ref\Proy02.dll
